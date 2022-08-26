@@ -67,7 +67,7 @@ namespace WebApp_OpenIDConnect_DotNet.Controllers
                 request.Headers.Authorization = new AuthenticationHeaderValue(
                     "Bearer", result.AccessToken);
                 HttpResponseMessage response = await client.SendAsync(request);
-               
+
                 switch (response.StatusCode)
                 {
                     case HttpStatusCode.OK:
