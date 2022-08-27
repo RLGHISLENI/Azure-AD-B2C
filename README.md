@@ -4,7 +4,7 @@ Passo a passo para implementação básica de utilização do Azure AD B2C com U
 
 ![image.png](/Images/banner-papo-de-dev-20220825.png)
 
-[Assista a nossa Live do <Papo de Dev/> no Youtube](https://www.youtube.com/watch?v=v-3EbTlAoEo)
+[Assista a nossa Live do < Papo de Dev /> no Youtube](https://www.youtube.com/watch?v=v-3EbTlAoEo)
 
 <a href="https://github.com/RLGHISLENI/Azure-AD-B2C/raw/master/Presentation/Papo-de-Dev_Azure-AD-B2C.pps" download>Faça o download da apresentação PowerPoint</a>
 
@@ -263,7 +263,7 @@ Quando a jornada do usuário for concluída o Azure AD B2C irá redirecionar par
 
 ![image.png](/Images/09-web-app-logado.png)
 
-Perceba que retorno a claim "DisplayName" contendo a informação que adicionei no momento do Sign Up.
+Perceba que retornou a claim "**_DisplayName_**" contendo a informação que adicionei no momento do Sign Up.
 
 ## Informações
 
