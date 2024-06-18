@@ -269,6 +269,10 @@ Perceba que retornou a claim "**_DisplayName_**" contendo a informação que adi
 
 [Deploy custom policies devops](https://learn.microsoft.com/en-us/azure/active-directory-b2c/deploy-custom-policies-devops)
 
+[AZ B2C](https://docs.microsoft.com/pt-br/azure/active-directory-b2c/customize-ui?pivots=b2c-user-flow)
+
+[Personalização](https://docs.microsoft.com/pt-br/azure/active-directory-b2c/customize-ui-with-html?pivots=b2c-user-flow)
+
 ## Informações
 
 ![image.png](/Images/contatos.png)
