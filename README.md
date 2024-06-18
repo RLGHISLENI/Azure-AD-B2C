@@ -265,6 +265,10 @@ Quando a jornada do usuário for concluída o Azure AD B2C irá redirecionar par
 
 Perceba que retornou a claim "**_DisplayName_**" contendo a informação que adicionei no momento do Sign Up.
 
+## Referências
+
+[Deploy custom policies devops](https://learn.microsoft.com/en-us/azure/active-directory-b2c/deploy-custom-policies-devops)
+
 ## Informações
 
 ![image.png](/Images/contatos.png)
